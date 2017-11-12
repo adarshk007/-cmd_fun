@@ -1,6 +1,19 @@
 # -cmd_fun
 Executing Codes and commands using CMD.
 
+```cmd
+if you want change text color
+C:\> color {enter the color}
+
+0 = Black       8 = Gray
+1 = Blue        9 = Light Blue
+2 = Green       A = Light Green
+3 = Aqua        B = Light Aqua
+4 = Red         C = Light Red
+5 = Purple      D = Light Purple
+6 = Yellow      E = Light Yellow
+7 = White       F = Bright White
+```
 ```CMD
 Messanger 
 Messanger.bat file install it and run on CMD.
